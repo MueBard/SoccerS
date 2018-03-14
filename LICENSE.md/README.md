@@ -1,7 +1,7 @@
 # SoccerS
 权威的足球资讯，球迷必不可少对的应用。
 
-
+![image](https://github.com/MueBard/SoccerS/blob/master/infova.png?raw=true)
 
 # File
 wiki: https://github.com/qianqians/abelkhan/wiki"
